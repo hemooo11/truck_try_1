@@ -1,0 +1,92 @@
+
+
+
+head{
+  margin: 0;
+}
+
+body{
+  background-color: #E4F9F5 ;
+  margin: 0;
+  padding: 0 ;
+
+
+}
+
+
+
+.top_container{
+  width: 60% ;
+  text-align: center;
+  background-color: #E4F9F5 ;
+  padding: 100px 0 70px ;
+  margin: auto ;
+
+}
+
+.p_1{
+  font-size:5.6rem;
+  font-family: 'Bebas Neue', cursive;
+  color: black ;
+
+  margin: 0;
+  padding: 0;
+  padding-bottom: 25px ;
+
+}
+.p_2{
+  font-size: 3.6rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF ;
+  font-weight: bold;
+  margin: 0;
+  padding: 5px 0 0 0 ;
+
+}
+
+
+.chef-image{
+  width: 400px;
+  border-radius: 20%;
+}
+
+.truck-image-continer{
+  width: 50% ;
+  text-align: center;
+  margin: auto;
+}
+
+
+.truck-image{
+  width: 800px ;
+
+}
+
+.meal_1{
+  text-align: left;
+  width: 70% ;
+  margin: 200px auto 100px auto;
+
+  line-height: 2;
+
+}
+
+.meal-1{
+  width: 30% ;
+  float: left;
+  margin-right: 30px ;
+
+}
+
+.meal_2{
+  text-align: left;
+  width: 70% ;
+  margin: 40px auto 100px auto;
+  line-height: 2;
+
+}
+
+.padding_hr{
+  padding: 200px 150px 150px 150px ;
+  margin-top: 200px
+}
